@@ -1,2 +1,2 @@
 # desktop_n_mobile
-responsive website
+Create a responsive website for desktop and mobile
